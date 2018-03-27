@@ -1,0 +1,8 @@
+_Playground/
+_Resources/
+WikiArticleIndicies/*.p
+WikiDataStorage/articles.csv
+WikiDataStorage/articles_redirect.csv
+WikiDataStorage/articles_template.csv
+WikiDataStorage/top75000words.csv
+wiki.xml
